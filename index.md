@@ -3,11 +3,11 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi there, I'm [Joel Azwar](https://www.linkedin.com/in/joel-azwar-991b9817b/), a 3rd year CS student in Seneca College. 
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
