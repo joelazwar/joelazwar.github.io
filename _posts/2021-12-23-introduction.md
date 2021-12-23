@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Introduction
-date: 2021-12-21T17:15:11.506Z
 ---
 Today is Tuesday, 21st of December, 2021. I'd just finished my Fall semester the week before and felt pretty optimistic about the future, but also a little lost. 
 
