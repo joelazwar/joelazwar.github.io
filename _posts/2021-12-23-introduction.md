@@ -3,6 +3,8 @@ layout: post
 title: Introduction
 date: 2021-12-23T17:22:48.806Z
 ---
+![](/assets/uploads/fuji_c200_30982.jpg)
+
 Today is Tuesday, 21st of December, 2021. I'd just finished my Fall semester the week before and felt pretty optimistic about the future, but also a little lost. 
 
 ### Fall 2022
