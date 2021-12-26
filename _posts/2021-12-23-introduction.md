@@ -3,13 +3,13 @@ layout: post
 title: Introduction
 date: 2021-12-23T17:22:48.806Z
 ---
-![](/assets/uploads/fuji_c200_30982.jpg)
-
+![Intro Image](/assets/uploads/fuji_c200_30982.jpg)
+<!--cover-splitter-->
 Today is Tuesday, 21st of December, 2021. I'd just finished my Fall semester the week before and felt pretty optimistic about the future, but also a little lost. 
 
 ### Fall 2022
 
-I just had a pretty eventful semester (probably my toughest one yet, academically) did a lot of things, made a lot of mistakes, and learned a lot more. Long story short, I slacked off midway and left a backlog of tests and assignments on finals week. But perseverance helped me get through it, finish up my work, and I ended up learning quite a lot. Kind of funny how that turned out. 
+I just had a pretty eventful semester (probably my toughest one yet, academically) did a lot of things, made a lot of mistakes, and learned a lot more. Long story short, I slacked off midway and left a backlog of tests and assignments on finals week. But perseverance helped me get through it, finish up my work, and I ended up learning quite a lot. Kind of funny how that turned out.
 
 Either way, it's exciting, this year I felt significant growth as a programmer. Learning both practically from my Internship earlier this year, and theoretically in school. Concepts are starting to click and programming in general is becoming a lot less overwhelming and clear to me. I don't know what it is, the dopamine, serotonin, whatever brain chemicals reward you for learning something new, but it feels amazing, and I'm eager to keep this momentum going.
 

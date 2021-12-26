@@ -2,10 +2,17 @@
 layout: default
 ---
 
+<br>
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{post.excerpt | strip_html}}</p>
+    {% assign excerptParts = post.excerpt | split: "<!--cover-splitter-->" %}
+    {% if excerptParts.size > 1 %}
+    <p> {{ excerptParts[1] | strip_newlines | truncatewords: 25 }}</p>
+    {% else %}
+      {{post.excerpt | strip_newlines | truncatewords: 25}}
+    {% endif %}
+
   {% endfor %}
 </div>
 
