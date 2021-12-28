@@ -2,12 +2,11 @@
 layout: post
 title: Introduction
 date: 2021-12-23T17:22:48.806Z
+cover: /assets/uploads/fuji_c200_30982.jpg
 ---
-![Intro Image](/assets/uploads/fuji_c200_30982.jpg)
-<!--cover-splitter-->
 Today is Tuesday, 21st of December, 2021. I'd just finished my Fall semester the week before and felt pretty optimistic about the future, but also a little lost. 
 
-### Fall 2022
+### Fall 2021
 
 I just had a pretty eventful semester (probably my toughest one yet, academically) did a lot of things, made a lot of mistakes, and learned a lot more. Long story short, I slacked off midway and left a backlog of tests and assignments on finals week. But perseverance helped me get through it, finish up my work, and I ended up learning quite a lot. Kind of funny how that turned out.
 
@@ -33,4 +32,4 @@ Joel
 
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joelazwar" title="blujazz" target="_blank" style="color: #cccccc; text-decoration: none;">blujazz</a> · <a href="https://soundcloud.com/joelazwar/darkforesttheory" title="darkforesttheory" target="_blank" style="color: #cccccc; text-decoration: none;">darkforesttheory</a></div>
 
-<p> P.S. Here's a track I just finished the other day
+<p> P.S. Here's a track I just finished the other day</p>
