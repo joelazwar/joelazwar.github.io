@@ -5,7 +5,8 @@ backend:
   repo: joelazwar/joelazwar.github.io
   branch: master
   site_domain: stoic-clarke-422402.netlify.com
-  publish_mode: editorial_workflow
+  
+publish_mode: editorial_workflow
 
 media_folder: 'assets/uploads'
 collections:
